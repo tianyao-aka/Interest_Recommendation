@@ -4,4 +4,4 @@ Due to some commercial conflicts, the dataset can't be disclosed. However, the o
 
 The model architecture is shown below:
 
-[!model architecture](https://github.com/tianyao-aka/Interest_Recommendation/blob/main/interest_rec_gnn.jpg?raw=true)
+![model architecture](https://github.com/tianyao-aka/Interest_Recommendation/blob/main/interest_rec_gnn.jpg?raw=true)
